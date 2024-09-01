@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px,0;
+}
+
+header h1 {
+    background-color: blueviolet;
+}
+
+.picture1{
+    border: 2px;
+    margin: 4;
+    padding: 0;
+}
+
+nav{
+    background-color: gray;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+#refence{
+    padding: 2px;
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
